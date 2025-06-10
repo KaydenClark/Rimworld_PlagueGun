@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Scrub's - Plague Gun</name>
+	<author>ScrubLordKay</author>
+	<packageId>ScrubLordKay.ScrubGun.0001</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>V1.0 
+    This mod adds a plague gun, a weapon that has a chance to give your enemies the plague. Thank you jecrell! 
+	https://ludeon.com/forums/index.php?topic=33219.0</description>
+</ModMetaData>
