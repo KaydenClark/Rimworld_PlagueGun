@@ -22,7 +22,7 @@ namespace ScrubGun
             if (Def != null && hitThing != null && hitThing is Pawn hitPawn)
             {
                 float rand = Rand.Value;
-                if (rand <= Def.AddHediffChance)
+                if (rand <= Def.HediffToAdd)
                 {
                     Messages.Message("SLK_PlagueBullet_SuccessMessage".Translate(this.launcher.Label, hitPawn.Label), MessageTypeDefOf.NegativeHealthEvent);
 
